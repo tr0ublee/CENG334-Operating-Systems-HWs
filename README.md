@@ -1,4 +1,4 @@
-# CENG334-Operating-Systems-HWs
+# METU CENG334-Operating-Systems-HWs
 
 HW1 -> Interprocess communication <br/>
 HW2 -> Threads and Monitors in C/C++ <br/>
